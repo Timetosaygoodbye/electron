@@ -29,3 +29,4 @@ fix_comment_out_incompatible_crypto_modules.patch
 update_tests_after_increasing_typed_array_size.patch
 feat_add_implementation_of_v8_platform_postjob.patch
 fix_-wincompatible-pointer-types-discards-qualifiers_error.patch
+fix_allow_preventing_initializeinspector_in_env.patch
